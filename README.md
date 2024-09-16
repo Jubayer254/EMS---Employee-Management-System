@@ -8,7 +8,7 @@ This is a Django-based Employee Management System that allows administrators to 
 - View list of active employees.
 - Add new employees.
 - Edit existing employee details.
-- Delete employees (marking them as inactive).
+- Delete employees.
 - Display key statistics like total employee count, average salary, and distinct designations.
   
 ## Prerequisites
